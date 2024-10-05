@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglasskube_docs=self.webpackChunkglasskube_docs||[]).push([[6030],{8334:s=>{s.exports=JSON.parse('{"blogTitle":"Blog","blogDescription":"Blog","totalPosts":15,"totalRecentPosts":3}')}}]);
