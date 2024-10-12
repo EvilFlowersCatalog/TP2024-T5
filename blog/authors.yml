@@ -27,3 +27,28 @@ kosmoz:
   title: Software Engineer
   url: https://github.com/kosmoz
   image_url: https://avatars.githubusercontent.com/kosmoz
+
+
+alex:
+  name: Bc. Alexander Čerepan
+  title: Microservices Team
+
+darina:
+  name: Bc. Darina Dvorecká
+  title: UX Team
+
+pato:
+  name: Bc. Patrik Kozlík
+  title: AI Team
+
+laura:
+  name: Bc. Laura Krajčovičová
+  title: AI Team
+
+robo:
+  name: Bc. Robert Prikryl
+  title: Microservices Team
+
+matus:
+  name: Bc. Matúš Makay
+  title: Microservices Team
