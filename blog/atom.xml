@@ -2,11 +2,123 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</id>
     <title>Team 5 Blog</title>
-    <updated>2024-09-09T00:00:00.000Z</updated>
+    <updated>2024-10-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/"/>
     <subtitle>Team 5 Blog</subtitle>
     <icon>https://EvilFlowersCatalog.dev/TP2024-T5/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 2]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/second-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/second-record/"/>
+        <updated>2024-10-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/user-attachments/assets/3d4d0bee-fa39-4d52-8873-09d9226c1b18" alt="cover-image-launch-week" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 8.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->❌ Bc. Robert Prikryl - neprítomný zo zdravotných dôvodov<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<p>Druhé stretnutie prebiehalo v rovnakom duchu ako to prvé, kedy sme si počas stretnutia prešli nasledovnú agendu:</p>
+<ul>
+<li>
+<p><strong>JIRA a projekt manažment</strong> - prešli sme si setup pre projekt v JIRA s podmienkou doplnenia chýbajúcich úloh</p>
+</li>
+<li>
+<p><strong>webová stránka</strong> - prešli sme si setup webovej stránky a upresnili si jej obsah, ktorý bude potrebný doplniť</p>
+</li>
+<li>
+<p><strong>plán práce pre jednotlivé tímy na najbližšie dva týždne</strong> - s každým tímom bol prekonzultovaný plán práce na nasledujúce dva týždne</p>
+</li>
+<li>
+<p><strong>voľná diskusia</strong> - počas voľnej diskusie sme si rozkreslili architektúru, prebrali postup pri microservices, prebrali možné riešenia a výzvy pre AI, upresnili postup pre UX testovanie a dohodli si stretnutie pre UX analýzu systému <em>ELVIRA</em></p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>dokončiť webovú stránku</li>
+<li>doplniť úlohy do JIRA</li>
+<li>pripojiť sa na virtuálne stroje</li>
+<li>rozbehnúť infraštruktúru a zoznámiť sa so systémom</li>
+<li>každá pracovná skupina si vytvorí road mapu</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Darina Dvorecká</name>
+        </author>
+        <category label="zimny-semester" term="zimny-semester"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 1]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/first-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/first-record/"/>
+        <updated>2024-10-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://github.com/user-attachments/assets/3d4d0bee-fa39-4d52-8873-09d9226c1b18" alt="cover-image-launch-week" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 1.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<p>Prvé oficiálne stretnutie vedúceho tímu s členmi tímu prebehlo podľa plánu v zasadacej miestnosti v knižnici.
+Po krátkom úvode a zoznámení sa sme si prešli nasledovnú agendu stretnutia:</p>
+<ul>
+<li>
+<p><strong>organizačné informácie</strong> - ako prvé sme boli oboznámení s organizačnými informáciami ohľadom predmetu <em>Tímový projekt 1</em> a samotného projektu <em>NEMAL</em></p>
+</li>
+<li>
+<p><strong>aktuálny stav projektu, dlhodobé smerovanie a ciele</strong> - následne nám bol predstavený súčasný stav projektu a jeho dlhobé smerovanie, ciele a predstavy ohľadom riešení konkrétnych problémov</p>
+</li>
+<li>
+<p><strong>definovanie cieľov</strong> - počas diskusie sme si zadali ciele, ktoré ako tím chceme splniť počas riešenia projektu</p>
+</li>
+<li>
+<p><strong>personálne obsadenie pracovných skupín a určenie vedúceho tímu</strong> - na prvom stretnutí sme si predbežne určili personálne obsadenie do
+pracovných skupín (Microservices tím, AI tím, UX tím) a demokraticky sme si zvolili Darinu Dvoreckú ako vedúceho tímu (zároveň aj Scrum mastera)</p>
+</li>
+<li>
+<p><strong>GitHub</strong> - vytvorenie repozitára pre webovú stránku</p>
+</li>
+<li>
+<p><strong>webová stránka</strong> - prebrali sme možné riešenia pre vytvorenie webovej stránky tímu a jej obsahu, ktorý by sa mal na nej nachádzať (zápisnice, dokumentácia, šprinty, ...)</p>
+</li>
+<li>
+<p><strong>diskusia</strong> - počas voľnej diskusie sme si viac priblížili naše ciele, problémové oblasti a dostupné technológie</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>vytvoriť tímovú JIRU</li>
+<li>rozdeliť sa do tímov</li>
+<li>každý tím vytvorí reálie pre projekt</li>
+<li>vytvoriť webovú stránku (odporúčané pomocou GitHub Pages)</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Darina Dvorecká</name>
+        </author>
+        <category label="zimny-semester" term="zimny-semester"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Launch week 2 - A new frontier of Kubernetes package management]]></title>
         <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/launch-week-number-2/</id>
