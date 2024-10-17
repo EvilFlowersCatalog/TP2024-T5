@@ -134,8 +134,8 @@ const config: Config = {
         src: 'img/glasskube-logo.svg',
       },
       items: [
-        {to: '/blog', label: 'Records'},
-        {type: 'docSidebar', sidebarId: 'docs', label: 'Sprints'},
+        {to: '/blog', label: 'Zápisnice'},
+        {type: 'docSidebar', sidebarId: 'docs', label: 'Šprinty'},
       ],
     },
     footer: {
