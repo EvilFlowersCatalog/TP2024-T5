@@ -135,7 +135,8 @@ const config: Config = {
       },
       items: [
         {to: '/blog', label: 'Zápisnice'},
-        {type: 'docSidebar', sidebarId: 'docs', label: 'Šprinty'},
+        {type: 'docSidebar', sidebarId: 'documentationSidebar', label: 'Dokumentácia'},
+        {type: 'docSidebar', sidebarId: 'sprintSidebar', label: 'Šprinty'},
       ],
     },
     footer: {

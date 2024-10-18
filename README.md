@@ -38,3 +38,38 @@ cmd /C 'set "GIT_USER=<GITHUB_USERNAME>" && yarn deploy'
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+### Adding content
+
+You can add content to these categories:
+
+For `records` go to:
+
+```
+/blog
+```
+
+and create a new folder named `YYYY-MM-DD-name-of-record` and then add a file with a new record.
+
+To update information about authors go to:
+
+```
+/blog/authors.yml
+```
+
+For `documentation` go to:
+
+```
+/docs/documentation
+```
+
+and create a new folder or add a new file to an existing folder. If you create a new folder don't forget to update the sidebar in `sidebars.ts`.
+
+For `sprints` go to:
+
+```
+/docs/sprints
+```
+
+and create a new folder or add a new file to an existing folder. If you create a new folder don't forget to update the sidebar in `sidebars.ts`.
