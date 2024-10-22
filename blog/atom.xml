@@ -2,11 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</id>
     <title>Team 5 Blog</title>
-    <updated>2024-10-08T00:00:00.000Z</updated>
+    <updated>2024-10-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/"/>
     <subtitle>Team 5 Blog</subtitle>
     <icon>https://EvilFlowersCatalog.dev/TP2024-T5/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 3]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/third-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/third-record/"/>
+        <updated>2024-10-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record3-703f9aa314c40f4c1e00607104d27608.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 22.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl - neprítomný zo zdravotných dôvodov<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<p>Na treťom stretnutí sa preberali predovšetkým splnené úlohy za posledné 2 týždne a nasledovná agenda:</p>
+<ul>
+<li>
+<p><strong>AI tím</strong> - boli prebraté všetky splnené úlohy ako aj problémy, ktoré sa počas ich plnenia naskytli.
+Na naskytnuté problémy boli navrhnuté rôzne riešenia, ktorými by sa dali riešiť a bol dohodnutý ďalší postup práce.</p>
+</li>
+<li>
+<p><strong>Data storage tím</strong> - boli riešené naskytnuté problémy a ich vhodné riešenie.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - prebralo sa čo daný tím stihol spraviť, prešiel sa sekvenčný diagram a naplánovala sa ďalšia práca.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - v skratke bolo popísané čo už je spravené, na čom sa momentálne pracuje a plány na budúci týždeň.
+Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by sa mohlo začať už v Novembri.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>každá pracovná skupina podľa dohody pracuje na svojich taskoch</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Darina Dvorecká</name>
+        </author>
+        <category label="zimny-semester" term="zimny-semester"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zápisnica zo stretnutia č. 2]]></title>
         <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/second-record/</id>

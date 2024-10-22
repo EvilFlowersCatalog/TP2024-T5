@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkglasskube_docs=self.webpackChunkglasskube_docs||[]).push([[220],{4052:e=>{e.exports=JSON.parse('{"title":"Z\xe1pisnica zo stretnutia \u010d. 2","description":"cover-image-launch-week","frontMatter":{"slug":"second-record","title":"Z\xe1pisnica zo stretnutia \u010d. 2","authors":["darina"],"tags":["zimny-semester"],"image":"/img/record2.png"}}')}}]);
