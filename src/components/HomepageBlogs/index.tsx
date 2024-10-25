@@ -6,6 +6,7 @@ import clsx from 'clsx';
 import {HomepageProps} from '../Home';
 
 const LatestBlogPosts = ({recentPosts}: HomepageProps) => {
+  const baseUrl = useBaseUrl('/');
   return (
     <section className={styles.latestBlogPosts}>
       <div className="container margin-top--lg">
@@ -23,7 +24,7 @@ const LatestBlogPosts = ({recentPosts}: HomepageProps) => {
           {recentPosts.map((post, index) => (
             <div key={index} className={clsx('card', styles.blogCard)}>
               <div className={clsx('card__image', styles.blogCardImage)}>
-                <img src={post.metadata.frontMatter.image} />
+                <img src={baseUrl + post.metadata.frontMatter.image} />
               </div>
               <div className={clsx(styles.cardContent, 'card__body')}>
                 <img
@@ -37,7 +38,6 @@ const LatestBlogPosts = ({recentPosts}: HomepageProps) => {
                       {post.metadata.title}
                     </Link>
                   </h3>
-                  <div>{post.metadata.description}</div>
                 </div>
               </div>
             </div>

@@ -37,7 +37,7 @@ async function blogPluginExtended(...pluginArgs) {
       }
 
       actions.addRoute({
-        path: '/',
+        path: '/TP2024-T5/',
         exact: true,
 
         component: '@site/src/components/Home/index.tsx',

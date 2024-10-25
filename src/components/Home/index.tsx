@@ -44,7 +44,7 @@ function HomepageHeader() {
                     <Player
                       autoplay
                       loop
-                      src="/animations/home.json"
+                      src="./animations/home.json"
                       style={{height: '480px'}}
                     />
                   );
