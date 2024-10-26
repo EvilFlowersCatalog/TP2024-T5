@@ -27,11 +27,11 @@ const LatestBlogPosts = ({recentPosts}: HomepageProps) => {
                 <img src={baseUrl + post.metadata.frontMatter.image} />
               </div>
               <div className={clsx(styles.cardContent, 'card__body')}>
-                <img
+                {/* <img
                   src={post.Preview.metadata.authors[0].imageURL}
                   alt={post.Preview.metadata.authors[0].name}
                   className={styles.authorImage}
-                />
+                /> */}
                 <div className={styles.cardDesc}>
                   <h3>
                     <Link to={post.Preview.metadata.permalink}>
