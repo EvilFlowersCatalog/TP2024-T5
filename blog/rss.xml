@@ -4,10 +4,72 @@
         <title>Team 5 Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
         <description>Team 5 Blog</description>
-        <lastBuildDate>Tue, 22 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Zápisnica zo stretnutia č. 4]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourth-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourth-record/</guid>
+            <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record4-5f55d566c083f6bbd19fe59e1776ce93.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 29.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na štvrtom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>
+<p><strong>webová stránka</strong> - doriešili sa detaily pre webovú stránku ako aj problémy, ktoré počas jej tvorby nastali.
+Došpecifikovali sa potrebné časti, ktoré na stránke ešte chýbajú a bude ich potrebné následne dokončiť.</p>
+</li>
+<li>
+<p><strong>AI tím</strong> - boli odprezentované všetky veci, ktoré sa za týždeň stihli a ďalší postup práce ako napríklad vytvorenie repozitárov.
+Následne sa diskutovalo o tom ako napojiť modely na ELVIRU, a ktorý postup bude pre to vhodnejší - dohodnuté bolo to rozbíjať na viacero častí.
+Okrem riešenia problémov sa prebrali predstavy toho ako sa bude zbierať telemetria a bude očakávaná dokumentácia, v ktore bude všetko podstatné popísané.
+Ako posledné sa riešili problémy s extrakciou obrázkov, tabuliek a vzorcov, ktoré v momentálnom stave nie je 100%, ale dotrénovanie sa bude riešiť neskôr aby sa daný tím nezasekol na 1 veci.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - si rozbehal svoje microservices a popísali ako majú zatiaľ rozdelené dané služby.
+Dôležitou časťou bolo že services už medzi sebou vedia komunikovať a ďalší postup bude v dôkladnom skúmaní správania Kafky.
+Taktiež je v pláne vyskúšať si konfiguráciu Kafky aby sa to priblížilo k produkčnému build-u.
+Najviac sa riešili topics a ako ich bude potrebné vyriešiť, pričom po diskusii sa dohodlo že sa nebudú vytvárať automaticky ale spraví sa CA a budú sa rozdávať certifikáty.</p>
+</li>
+<li>
+<p><strong>Data storage tím</strong> - už sa podarilo rozbehať Dataverse tak, aby sa to dalo integrovať s ELVIROU. Počas diskusie boli spomenuté rôzne funkcionality ako napríklad
+vytváranie data-setov, vytváranie query, dopyty, editácia metadát a pridávanie tagov.
+Ďalej sa riešil už vytvorený diagram a jeho správnosť ako aj problémy s ukladaním súborov tak, aby sa zbytočne neduplikovali alebo aby sme ich stále neposielali.
+Na konci sa predovšetkým riešili možné riešenia cez S3 a aj worst case scenarios. Hlavnou úlohou na ďalší týždeň bude zistenie možných funkcionalít Datavers-u.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - boli predvedené všetky vytvorené dokumenty potrebné pre postúpenie do ďalšej fázy UX iteračného cyklu.
+Niektoré časti, ako dokončenie hodnotenia nájdených problémov bude ešte potrebné dokončiť, ale v tomto prípade ide o veci, ktoré je možné dokončiť aj počas testovania tak aby to nespomalovalo proces práce.
+Ďalej bol prejdený protokol, ktorý je vytvorený na UX testovanie študentov a bolo dohodnuté kedy bude možné začať s prvotným testovaním.
+Prvotné UX testovanie so študentmi by už mohlo prebehnúť nasledujúci týždeň, a ak sa nájde dostatočný počet dobrovoľníkov tak by aj v daný týždeň mohlo byť ukončené.</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>AI tím - svoju doterajšiu prácu dá do repozitárov</li>
+<li>Microservices tím - podrobná analýza Kafky</li>
+<li>Data storage tím - zistenie funkcionalít Datavers-u vhodných pre ELVIRU</li>
+<li>UX tím - vytvorenie stretnutí kam sa budú môcť študenti prihlásiť na UX testovanie</li>
+</ul>]]></content:encoded>
+            <category>zimny-semester</category>
+        </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 3]]></title>
             <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/third-record/</link>
@@ -28,11 +90,10 @@
 <!-- -->✅ Bc. Darina Dvorecká<br>
 <!-- -->✅ Bc. Patrik Kozlík<br>
 <!-- -->✅ Bc. Laura Krajčovičová<br>
-<!-- -->✅ Bc. Robert Prikryl - neprítomný zo zdravotných dôvodov<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
 <!-- -->✅ Bc. Matúš Makay</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
-<p>Na treťom stretnutí sa preberali predovšetkým splnené úlohy za posledné 2 týždne a nasledovná agenda:</p>
-<ul>
+<div style="text-align:justify"><p>Na treťom stretnutí sa preberali predovšetkým splnené úlohy za posledné 2 týždne a nasledovná agenda:</p><ul>
 <li>
 <p><strong>AI tím</strong> - boli prebraté všetky splnené úlohy ako aj problémy, ktoré sa počas ich plnenia naskytli.
 Na naskytnuté problémy boli navrhnuté rôzne riešenia, ktorými by sa dali riešiť a bol dohodnutý ďalší postup práce.</p>
@@ -47,7 +108,7 @@ Na naskytnuté problémy boli navrhnuté rôzne riešenia, ktorými by sa dali r
 <p><strong>UX tím</strong> - v skratke bolo popísané čo už je spravené, na čom sa momentálne pracuje a plány na budúci týždeň.
 Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by sa mohlo začať už v Novembri.</p>
 </li>
-</ul>
+</ul></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
 <li>každá pracovná skupina podľa dohody pracuje na svojich taskoch</li>
@@ -77,8 +138,7 @@ Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by
 <!-- -->❌ Bc. Robert Prikryl - neprítomný zo zdravotných dôvodov<br>
 <!-- -->✅ Bc. Matúš Makay</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
-<p>Druhé stretnutie prebiehalo v rovnakom duchu ako to prvé, kedy sme si počas stretnutia prešli nasledovnú agendu:</p>
-<ul>
+<div style="text-align:justify"><p>Druhé stretnutie prebiehalo v rovnakom duchu ako to prvé, kedy sme si počas stretnutia prešli nasledovnú agendu:</p><ul>
 <li>
 <p><strong>JIRA a projekt manažment</strong> - prešli sme si setup pre projekt v JIRA s podmienkou doplnenia chýbajúcich úloh</p>
 </li>
@@ -91,7 +151,7 @@ Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by
 <li>
 <p><strong>voľná diskusia</strong> - počas voľnej diskusie sme si rozkreslili architektúru, prebrali postup pri microservices, prebrali možné riešenia a výzvy pre AI, upresnili postup pre UX testovanie a dohodli si stretnutie pre UX analýzu systému <em>ELVIRA</em></p>
 </li>
-</ul>
+</ul></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
 <li>dokončiť webovú stránku</li>
@@ -125,9 +185,8 @@ Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by
 <!-- -->✅ Bc. Robert Prikryl<br>
 <!-- -->✅ Bc. Matúš Makay</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
-<p>Prvé oficiálne stretnutie vedúceho tímu s členmi tímu prebehlo podľa plánu v zasadacej miestnosti v knižnici.
-Po krátkom úvode a zoznámení sa sme si prešli nasledovnú agendu stretnutia:</p>
-<ul>
+<div style="text-align:justify"><p>Prvé oficiálne stretnutie vedúceho tímu s členmi tímu prebehlo podľa plánu v zasadacej miestnosti v knižnici.
+Po krátkom úvode a zoznámení sa sme si prešli nasledovnú agendu stretnutia:</p><ul>
 <li>
 <p><strong>organizačné informácie</strong> - ako prvé sme boli oboznámení s organizačnými informáciami ohľadom predmetu <em>Tímový projekt 1</em> a samotného projektu <em>NEMAL</em></p>
 </li>
@@ -150,7 +209,7 @@ pracovných skupín (Microservices tím, AI tím, UX tím) a demokraticky sme si
 <li>
 <p><strong>diskusia</strong> - počas voľnej diskusie sme si viac priblížili naše ciele, problémové oblasti a dostupné technológie</p>
 </li>
-</ul>
+</ul></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
 <li>vytvoriť tímovú JIRU</li>

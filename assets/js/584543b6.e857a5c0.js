@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglasskube_docs=self.webpackChunkglasskube_docs||[]).push([[1174],{6880:s=>{s.exports=JSON.parse('{"tags":[{"label":"zimny-semester","permalink":"/TP2024-T5/blog/tags/zimny-semester","count":3}]}')}}]);
