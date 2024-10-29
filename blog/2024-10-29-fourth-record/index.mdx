@@ -1,0 +1,64 @@
+---
+slug: fourth-record
+title: Zápisnica zo stretnutia č. 4
+authors: [ darina ]
+tags: [ zimny-semester ]
+
+image: /img/record4.png
+---
+![cover-image-launch-week](/img/record4.png)
+
+<!-- ❌✅ -->
+<!-- truncate -->
+
+## Podrobnosti
+
+**Dátum:** Utorok 29.10. 2024  
+**Typ stretnutia:** Stretnutie vedúceho tímu a členov tímu  
+**Vedúci tímu:** Ing. Jakub Dubec  
+**Čas stretnutia:** 8:00  
+**Miesto stretnutia:** FIIT STU zasadacia miestnosť v knižnici   
+**Zapisovateľ:** Darina Dvorecká
+
+
+## Prítomnosť
+
+ ✅ Ing. Jakub Dubec  
+ ✅ Bc. Alexander Čerepan  
+ ✅ Bc. Darina Dvorecká  
+ ✅ Bc. Patrik Kozlík  
+ ✅ Bc. Laura Krajčovičová  
+ ✅ Bc. Robert Prikryl  
+ ✅ Bc. Matúš Makay
+
+## Priebeh stretnutia
+<div style={{ textAlign: 'justify' }}>
+Na štvrtom stretnutí sa preberala nasledovná agenda:
+- **webová stránka** - doriešili sa detaily pre webovú stránku ako aj problémy, ktoré počas jej tvorby nastali. 
+Došpecifikovali sa potrebné časti, ktoré na stránke ešte chýbajú a bude ich potrebné následne dokončiť.
+
+- **AI tím** - boli odprezentované všetky veci, ktoré sa za týždeň stihli a ďalší postup práce ako napríklad vytvorenie repozitárov.
+Následne sa diskutovalo o tom ako napojiť modely na ELVIRU, a ktorý postup bude pre to vhodnejší - dohodnuté bolo to rozbíjať na viacero častí.
+Okrem riešenia problémov sa prebrali predstavy toho ako sa bude zbierať telemetria a bude očakávaná dokumentácia, v ktore bude všetko podstatné popísané.
+Ako posledné sa riešili problémy s extrakciou obrázkov, tabuliek a vzorcov, ktoré v momentálnom stave nie je 100%, ale dotrénovanie sa bude riešiť neskôr aby sa daný tím nezasekol na 1 veci. 
+- **Microservices tím** - si rozbehal svoje microservices a popísali ako majú zatiaľ rozdelené dané služby.
+Dôležitou časťou bolo že services už medzi sebou vedia komunikovať a ďalší postup bude v dôkladnom skúmaní správania Kafky.
+Taktiež je v pláne vyskúšať si konfiguráciu Kafky aby sa to priblížilo k produkčnému build-u.
+Najviac sa riešili topics a ako ich bude potrebné vyriešiť, pričom po diskusii sa dohodlo že sa nebudú vytvárať automaticky ale spraví sa CA a budú sa rozdávať certifikáty. 
+- **Data storage tím** - už sa podarilo rozbehať Dataverse tak, aby sa to dalo integrovať s ELVIROU. Počas diskusie boli spomenuté rôzne funkcionality ako napríklad
+vytváranie data-setov, vytváranie query, dopyty, editácia metadát a pridávanie tagov.
+Ďalej sa riešil už vytvorený diagram a jeho správnosť ako aj problémy s ukladaním súborov tak, aby sa zbytočne neduplikovali alebo aby sme ich stále neposielali.
+Na konci sa predovšetkým riešili možné riešenia cez S3 a aj worst case scenarios. Hlavnou úlohou na ďalší týždeň bude zistenie možných funkcionalít Datavers-u.
+- **UX tím** - boli predvedené všetky vytvorené dokumenty potrebné pre postúpenie do ďalšej fázy UX iteračného cyklu.
+Niektoré časti, ako dokončenie hodnotenia nájdených problémov bude ešte potrebné dokončiť, ale v tomto prípade ide o veci, ktoré je možné dokončiť aj počas testovania tak aby to nespomalovalo proces práce.
+Ďalej bol prejdený protokol, ktorý je vytvorený na UX testovanie študentov a bolo dohodnuté kedy bude možné začať s prvotným testovaním. 
+Prvotné UX testovanie so študentmi by už mohlo prebehnúť nasledujúci týždeň, a ak sa nájde dostatočný počet dobrovoľníkov tak by aj v daný týždeň mohlo byť ukončené.
+</div>
+
+
+## To Do List
+
+- AI tím - svoju doterajšiu prácu dá do repozitárov
+- Microservices tím - podrobná analýza Kafky
+- Data storage tím - zistenie funkcionalít Datavers-u vhodných pre ELVIRU
+- UX tím - vytvorenie stretnutí kam sa budú môcť študenti prihlásiť na UX testovanie
