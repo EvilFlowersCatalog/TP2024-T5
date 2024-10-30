@@ -5,9 +5,7 @@ import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
 import {IconDefinition} from '@fortawesome/free-regular-svg-icons';
 import React from 'react';
 import {
-  faChartLine,
-  faCheckDouble,
-  faKey,
+  faFrog
 } from '@fortawesome/free-solid-svg-icons';
 
 type FeatureItem = {
@@ -18,32 +16,68 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Manage Licensing',
-    icon: faKey,
+    title: 'Bc. Alexander Čerepan',
+    icon: faFrog,
     description: (
       <>
-        Restrict and permit access to your software with built in license
-        management and validation.
+        Microservices Team
       </>
     ),
   },
   {
-    title: 'Compatibility testing',
-    icon: faCheckDouble,
+    title: 'Bc. Darina Dvorecká',
+    icon: faFrog,
     description: (
       <>
-        Ensure compatibility across different environments like AWS, GCP and
-        on-prem.
+        UX Team
       </>
     ),
   },
   {
-    title: 'Insights',
-    icon: faChartLine,
+    title: 'Bc. Patrik Kozlík',
+    icon: faFrog,
     description: (
       <>
-        Monitor uptime, usage, configuration, and issues of your enterprise
-        deployments.
+        AI Team
+      </>
+    ),
+  },
+  {
+    title: 'Bc. Laura Krajčovičová',
+    icon: faFrog,
+    description: (
+      <>
+        AI Team
+      </>
+    ),
+  },
+  {
+    title: 'Bc. Robert Prikryl',
+    icon: faFrog,
+    description: (
+      <>
+        Microservices Team
+      </>
+    ),
+  },
+  {
+    title: 'Bc. Matúš Makay',
+    icon: faFrog,
+    description: (
+      <>
+        Data Storage Team
+      </>
+    ),
+  },
+];
+        
+const FeatureList1: FeatureItem[] = [
+  {
+    title: 'Ing. Jakub Dubec',
+    icon: faFrog,
+    description: (
+      <>
+        Product Owner
       </>
     ),
   },
@@ -72,10 +106,14 @@ export default function HomepageFeatures(): JSX.Element {
         <div className="row">
           <div className="col text--center">
             <Heading as="h2">
-              Sell software to enterprises and deploy to private infrastructure,
-              different cloud environments, and on-premises.
+              Členovia tímu
             </Heading>
           </div>
+        </div>
+        <div className="row1" style={{ display: 'flex', justifyContent: FeatureList1.length === 1 ? 'center' : 'space-between' }}>
+          {FeatureList1.map((item, idx) => (
+            <Feature key={idx} {...item} />
+          ))}
         </div>
         <div className="row">
           {FeatureList.map((item, idx) => (

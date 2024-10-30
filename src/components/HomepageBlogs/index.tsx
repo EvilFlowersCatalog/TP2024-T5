@@ -12,11 +12,11 @@ const LatestBlogPosts = ({recentPosts}: HomepageProps) => {
       <div className="container margin-top--lg">
         <div className="row">
           <div className="col text--center">
-            <h2>Recent posts</h2>
+            <h2>Najnovšie príspevky</h2>
             <p>
-              We are regularly writing{' '}
-              <Link to={useBaseUrl('/blog')}>meeting reports</Link>. Find
-              our latest blog posts below.
+              Pravidelne spisujeme{' '}
+              <Link to={useBaseUrl('/blog')}>zápisnice z tímových stretnutí</Link>. 
+              Najnovšie zápisnice nájdete na blogu nižšie.
             </p>
           </div>
         </div>
@@ -48,7 +48,7 @@ const LatestBlogPosts = ({recentPosts}: HomepageProps) => {
             <Link
               className={clsx('button', 'button--secondary', styles.moreBlogs)}
               to={useBaseUrl('/blog')}>
-              More posts
+              Ďalšie príspevky
             </Link>
           </div>
         </div>
