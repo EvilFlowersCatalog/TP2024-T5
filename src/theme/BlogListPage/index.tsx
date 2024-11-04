@@ -12,6 +12,9 @@ import BlogListPaginator from '@theme/BlogListPaginator';
 import type {Props} from '@theme/BlogListPage';
 import BlogListPageStructuredData from '@theme/BlogListPage/StructuredData';
 import BlogPostItems from '../BlogPostItems';
+import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
+
 
 function BlogListPageMetadata(props: Props): JSX.Element {
   const {metadata} = props;
@@ -28,10 +31,27 @@ function BlogListPageMetadata(props: Props): JSX.Element {
   );
 }
 
+/*
+      <div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
+        <Link
+          className={clsx('button', 'button--secondary')}
+          to={useBaseUrl('/blog/tags')}>
+          Filtrovať podľa tagov
+        </Link>
+      </div>
+*/
+
 function BlogListPageContent(props: Props): JSX.Element {
   const {metadata, items, sidebar} = props;
   return (
     <BlogLayout sidebar={sidebar}>
+      <div style={{display: 'flex', justifyContent: 'center', marginBottom: '20px'}}>
+        <Link
+          className={clsx('button', 'button--secondary', 'margin-top--md')}
+          to={useBaseUrl('/blog/tags')}>
+          Filtrovať podľa tagov
+        </Link>
+      </div>
       <BlogPostItems items={items} metadata={metadata} />
       <div className="container" style={{marginBottom: '40px'}}>
         <BlogListPaginator metadata={metadata} />
