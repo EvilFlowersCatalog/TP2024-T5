@@ -4,10 +4,49 @@
         <title>Team 5 Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
         <description>Team 5 Blog</description>
-        <lastBuildDate>Tue, 29 Oct 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Tímové stretnutie č. 5]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifth-meet/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifth-meet/</guid>
+            <pubDate>Thu, 31 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/meet5-0b249c1a698bda58769d703f396f9081.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-meet/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 31.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie členov tímu<br>
+<strong>Čas stretnutia:</strong> 18:00<br>
+<strong>Miesto stretnutia:</strong> Online<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-meet/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-meet/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><ul>
+<li>
+<p><strong>AI tím</strong> - V rámci piateho stretnutia sme začali s integráciou a testovaním AI modelov zamerných na spracovanie obrázkov, konkrétne na ich označenie a opis.
+Vyskúšali sme niekoľko modelov a identifikovali sme limitácie týchto modelov pre náš prípad použitia (vedecké články s veľmi špecifickými obrázkami ako sú rôzne komplexné diagramy a pod.)</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - Zjednotenie štruktúry kódu pre jednotlivé mikroservices. Analýza možnosti pre role based access na message broker.</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - Testovanie API, ktoré poskytuje Dataverse, s cieľom načítavania dokumentov do mikroslužieb.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - Ukončenie práce na protokole, persónach a user flow-och a vytvorenie pozvánky na UX testovanie.</p>
+</li>
+</ul></div>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>stretnutia</category>
+        </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 4]]></title>
             <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourth-record/</link>
@@ -49,7 +88,7 @@ Taktiež je v pláne vyskúšať si konfiguráciu Kafky aby sa to priblížilo k
 Najviac sa riešili topics a ako ich bude potrebné vyriešiť, pričom po diskusii sa dohodlo že sa nebudú vytvárať automaticky ale spraví sa CA a budú sa rozdávať certifikáty.</p>
 </li>
 <li>
-<p><strong>Data storage tím</strong> - už sa podarilo rozbehať Dataverse tak, aby sa to dalo integrovať s ELVIROU. Počas diskusie boli spomenuté rôzne funkcionality ako napríklad
+<p><strong>Datastorage tím</strong> - už sa podarilo rozbehať Dataverse tak, aby sa to dalo integrovať s ELVIROU. Počas diskusie boli spomenuté rôzne funkcionality ako napríklad
 vytváranie data-setov, vytváranie query, dopyty, editácia metadát a pridávanie tagov.
 Ďalej sa riešil už vytvorený diagram a jeho správnosť ako aj problémy s ukladaním súborov tak, aby sa zbytočne neduplikovali alebo aby sme ich stále neposielali.
 Na konci sa predovšetkým riešili možné riešenia cez S3 a aj worst case scenarios. Hlavnou úlohou na ďalší týždeň bude zistenie možných funkcionalít Datavers-u.</p>
@@ -69,6 +108,49 @@ Prvotné UX testovanie so študentmi by už mohlo prebehnúť nasledujúci týž
 <li>UX tím - vytvorenie stretnutí kam sa budú môcť študenti prihlásiť na UX testovanie</li>
 </ul>]]></content:encoded>
             <category>zimny-semester</category>
+            <category>zapisnice</category>
+        </item>
+        <item>
+            <title><![CDATA[Tímové stretnutie č. 4]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourth-meet/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourth-meet/</guid>
+            <pubDate>Fri, 25 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/meet4-4530bdef1c9b9287d2c2a63d9b1d0721.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-meet/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 25.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie členov tímu<br>
+<strong>Čas stretnutia:</strong> 14:00<br>
+<strong>Miesto stretnutia:</strong> Online<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-meet/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourth-meet/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><ul>
+<li>
+<p><strong>AI tím</strong> - Štvrté stretnutie spočívalo v pokračovaní extrakcie elementov z dokumentu, nakoľko ide o pomerne náročnú úlohu, pri ktorej treba zohľadniť rôzne edge cases a nájsť optimálne kompromisy.
+Pokračovali sme extrakciou tabuliek, pričom sme aj v tomto prípade otestovali viacero možných prístupov.
+Pre extrakciu jednotlivých elementov sme sa zhodli na riešeniach, ktoré sú pre túto fázu vývoja projektu dostatočne efektívne, čím sme dočasne ukončili epic venujúci sa extrakcii elementov z PDF dokumentov, pričom v budúcnosti stále zostáva priestor pre zlepšenie tohto procesu.
+Takisto sme navrhli architektúru budúcich AI mikroslužieb spolu s monitorovaním ich výkonnosti.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - Riešenie prvých problémov s prístupom na message broker. Problém so subscribe na jednotlivé queues. Testovanie správania pri nedokončení úlohy na workerovi.</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - Analýza možností integrácie Elviry s Dataverse. Používateľské rozhranie umožňuje obohatiť nahrávané súbory o metadáta.
+Dataverse poskytuje API, ktoré môžeme využiť na vyhľadávanie dokumentov.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - Počas štvrtého stretnutia sme dokončili user flows pre používateľské scenáre pre študentov a vytvorili sme protokol na UX testovanie študentov.</p>
+</li>
+</ul></div>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>stretnutia</category>
         </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 3]]></title>
@@ -99,7 +181,7 @@ Prvotné UX testovanie so študentmi by už mohlo prebehnúť nasledujúci týž
 Na naskytnuté problémy boli navrhnuté rôzne riešenia, ktorými by sa dali riešiť a bol dohodnutý ďalší postup práce.</p>
 </li>
 <li>
-<p><strong>Data storage tím</strong> - boli riešené naskytnuté problémy a ich vhodné riešenie.</p>
+<p><strong>Datastorage tím</strong> - boli riešené naskytnuté problémy a ich vhodné riešenie.</p>
 </li>
 <li>
 <p><strong>Microservices tím</strong> - prebralo sa čo daný tím stihol spraviť, prešiel sa sekvenčný diagram a naplánovala sa ďalšia práca.</p>
@@ -114,6 +196,88 @@ Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by
 <li>každá pracovná skupina podľa dohody pracuje na svojich taskoch</li>
 </ul>]]></content:encoded>
             <category>zimny-semester</category>
+            <category>zapisnice</category>
+        </item>
+        <item>
+            <title><![CDATA[Tímové stretnutie č. 3]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/third-meet/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/third-meet/</guid>
+            <pubDate>Fri, 18 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/meet3-d5a649f66b07b36b0e1ab0e51db7d966.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-meet/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 18.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie členov tímu<br>
+<strong>Čas stretnutia:</strong> 14:00<br>
+<strong>Miesto stretnutia:</strong> Online<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-meet/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/third-meet/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><ul>
+<li>
+<p><strong>AI tím</strong> - V rámci tretieho stretnutia sme pokračovali v extrakcii vzorcov a obrázkov, nakoľko sa pri tejto implementácii vyskytlo niekoľko problémov a výziev, pre ktoré sme sa snažili nájsť možné riešenia či kompromisy.
+Otestovali sme rôzne prístupy extrakcie týchto elementov pomocou viacerých knižníc a nástrojov a analyzovali sme ich úspešnosť.
+Následne sme sa zhodli na potenciálnom riešení spracovania vzorcov pomocou voľne dostupného nástroja.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - Oboznamovanie sa s vybranými technológiami. Vytvorenie prvých mikroservis a napojenie na message broker pre ktorý sme sa rozhodli (kafka).</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - Lokálne spustenie Dataverse. Zoznámenie sa s rozhraním a hlbšia analýza funkcionality jednotlivých komponentov.
+Vytvorenie repozitára a dokumentácie spúšťacieho procesu.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - Počas tretieho stretnutia sme si spísali všetky používateľské scenáre pre študentov a knihovníčky a začali s tvorbou user flows.</p>
+</li>
+</ul></div>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>stretnutia</category>
+        </item>
+        <item>
+            <title><![CDATA[Tímové stretnutie č. 2]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/second-meet/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/second-meet/</guid>
+            <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/meet2-b9aa984db5c503e531626faef05609be.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-meet/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 11.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie členov tímu<br>
+<strong>Čas stretnutia:</strong> 14:00<br>
+<strong>Miesto stretnutia:</strong> Online<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-meet/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/second-meet/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><ul>
+<li>
+<p><strong>AI tím</strong> - Počas druhého stretnutia sme začali so štúdiom potrebným na implementáciu prerozdelených úloh z minulého stretnutia.
+Začali sme aj so samotnou implementáciou týchto úloh, ktoré spočívali v extrakcii elementov z PDF dokumentov, konkrétne sme sa venovali extrakcii textu, vzorcov a obrázkov.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - Vytvorenie základnej štruktúry projektu. Pridanie projektu na github. Úprava struktury kódu aby vyhovovala multiplatformovému vývoju.</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - Analýza funkcionalít repozitára Dataverse. Preskúmanie inštalačného procesu a výber najvhodnejšieho riešenia pre náš use case.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - Počas druhého stretnutia sme vytvorili roadmapu, ktorá zobrazuje náš plánovaný pracovný postup.
+Taktiež sme vytvorili 2 hlavné persóny (knihovníčka a študent), ktoré súvisia s ELVIROU.</p>
+</li>
+</ul></div>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>stretnutia</category>
         </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 2]]></title>
@@ -161,6 +325,50 @@ Ak všetko pôjde podľa plánov, tak s prvým používateľským testovaním by
 <li>každá pracovná skupina si vytvorí road mapu</li>
 </ul>]]></content:encoded>
             <category>zimny-semester</category>
+            <category>zapisnice</category>
+        </item>
+        <item>
+            <title><![CDATA[Tímové stretnutie č. 1]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/first-meet/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/first-meet/</guid>
+            <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/meet1-15480a3a88e82c734111e4e9c70b4079.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-meet/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 4.10. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie členov tímu<br>
+<strong>Čas stretnutia:</strong> 14:00<br>
+<strong>Miesto stretnutia:</strong> Online<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-meet/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/first-meet/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><ul>
+<li>
+<p><strong>AI tím</strong> - Počas prvého stretnutia AI tímu sme vytvorili roadmapu, ktorá zobrazuje náš plánovaný postup počas práce na tímovom projekte.
+Roadmapa obsahuje reálie, ktoré chceme počas oboch semestrov v rámci tímového projektu dosiahnuť.
+Taktiež sme vytvorili projekt v rámci tímovej Jiry, vrátane definovania prvotných epicov a im prislúchajúcim úloh.
+Úlohy sme si rozdelili a vytvorili sme si GitHub repozitár pre naše prvotné testovacie implementácie.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - Vytvorenie road mapy a rozhodovanie sa aké technológie budeme používať. Vytvorenie spoločného github repozitára.</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - Analýza streamovacích protokolov. Výber vhodného protokolu pre Elviru.
+Vytvorenie funkčného dema, ktoré umožňuje vytvoriť stream pomocou linuxového nástroja ffmpeg v kombinácii s nginx, ktorý stream propaguje do prehliadača.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - Počas prvého stretnutia sme analyzovali nahratý rozhovor a vytvorili zoznam problémov.
+Taktiež sme analyzovali samotný systém a dopísali objavené problémy použiteľnosti do už vytvoreného zoznamu.</p>
+</li>
+</ul></div>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>stretnutia</category>
         </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 1]]></title>
@@ -218,6 +426,7 @@ pracovných skupín (Microservices tím, AI tím, UX tím) a demokraticky sme si
 <li>vytvoriť webovú stránku (odporúčané pomocou GitHub Pages)</li>
 </ul>]]></content:encoded>
             <category>zimny-semester</category>
+            <category>zapisnice</category>
         </item>
     </channel>
 </rss>
