@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</id>
     <title>Team 5 Blog</title>
-    <updated>2024-10-31T00:00:00.000Z</updated>
+    <updated>2024-11-05T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/"/>
     <subtitle>Team 5 Blog</subtitle>
     <icon>https://EvilFlowersCatalog.dev/TP2024-T5/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 5]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifth-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifth-record/"/>
+        <updated>2024-11-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record5-5566968509b14b97c1a6243db543d22c.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 5.11. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na piatom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>
+<p><strong>AI tím</strong> - boli prebraté momentálne limitácie existujúcich modelov a problémy s tým, že modely boli trénované na obrázkoch typu "mačka/pes" a nie diagramy,
+čiže aby dané modeli lepšie fungovali pre diagramy bolo by ich potrebné dotrénocať. Boli otestované 3 druhy modelov, ktoré by na hľadanie a vytváranie popisov k obrázkom bolo možné použiť
+a tiaktiež boli prebraté výhody a nevýhody každého modelu. Taktiež AI tím stihol otestovať model na speech recognition, ktorý sa osvedčil a nemal by byť s ním problém.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - začalo sa pracovať na na redundancii, ale momentálne to nefunguje a pracuje sa na fixovaní daného provblému.
+Taktiež sa prebral role based access, v ktorom sa tiež objavilo pár problémov a bude ich potrebné vyriešiť. V tomto prípade ale jedným z riešení bude statická konfigurácia.</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - pri skúmaní a študovaní Dataverse sa naskytlo zopár problémov, ktoré bude potrebné riešiť. Jeden z problémov kedy sa nedali zisťovať názvy súborou
+je už vyriešený. Najväčším momentálnym problémom je, že klientské libraries ne sú určené na komplexnejšie riešenia, ktoré si vyžaduje ELVIRA.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - prebral sa problém s nedostatkom dobrovoľníkov a možné riešenia ako ich mať na testovaní viacej. Taktiež sa prebralo
+najbližšie používateľské testovanie a jeho priebeh.</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>JIRA - pridať deadlines pre tasky aby sa dali jednoducho generovať grafy</li>
+<li>dokumentácia - každý tím by si mal viesť vlastnú dokumentáciu, ktorú bude potom možné pridať na stránku</li>
+<li>AI tím - pozrieť si elastic</li>
+<li>Microservices tím - v pláne je spraviť bezpečnú komunikáciu medzi services</li>
+<li>Datastorage tím - pomaly sa začať pripájať</li>
+<li>UX tím - zdokumentovať si prvé UX testovanie</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Darina Dvorecká</name>
+        </author>
+        <category label="zimny-semester" term="zimny-semester"/>
+        <category label="zapisnice" term="zapisnice"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tímové stretnutie č. 5]]></title>
         <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifth-meet/</id>

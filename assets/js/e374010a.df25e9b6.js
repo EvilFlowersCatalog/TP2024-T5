@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkglasskube_docs=self.webpackChunkglasskube_docs||[]).push([[9161],{3663:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/TP2024-T5/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":9,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
