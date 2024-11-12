@@ -1,0 +1,63 @@
+---
+slug: sixth-record
+title: Zápisnica zo stretnutia č. 6
+authors: [ darina ]
+tags: [ zimny-semester, zapisnice ]
+
+image: /img/record6.png
+---
+![cover-image-launch-week](/img/record6.png)
+
+<!-- ❌✅ -->
+<!-- truncate -->
+
+## Podrobnosti
+
+**Dátum:** Utorok 12.11. 2024  
+**Typ stretnutia:** Stretnutie vedúceho tímu a členov tímu  
+**Vedúci tímu:** Ing. Jakub Dubec  
+**Čas stretnutia:** 8:00  
+**Miesto stretnutia:** FIIT STU zasadacia miestnosť v knižnici   
+**Zapisovateľ:** Darina Dvorecká
+
+
+## Prítomnosť
+
+ ✅ Ing. Jakub Dubec  
+ ✅ Bc. Alexander Čerepan  
+ ✅ Bc. Darina Dvorecká  
+ ✅ Bc. Patrik Kozlík  
+ ✅ Bc. Laura Krajčovičová  
+ ✅ Bc. Robert Prikryl  
+ ❌ Bc. Matúš Makay - osobné dôvody
+
+## Priebeh stretnutia
+<div style={{ textAlign: 'justify' }}>
+Na šiestom stretnutí sa preberala nasledovná agenda:
+- **AI tím** - spomenulo sa, že väčšina vecí, ktoré sú už funkčné boli nahraté do microservices.
+V microservices sa nachádzajú *.env*, *extraktor*, ktorý je možné meniť, *model*, ktorý bude taktiež možné meniť a *interface*.
+Taktiež bolo dohodnuté že najprv sa dokončia všetky services a potom sa AI tím zameria na elastic search.
+Čo sa týka extrahovaných dát z tabuliek, tak tie sa budú ukladať tak aby to dávalo zmysel a používateľ už mohol s nejakým jednoduchým formátom ďalej pracovať. 
+
+- **Microservices tím** - v tejto skupine sa riešil Kafka admin a topics. Admin momentálne vie dynamicky vytvárať, generovať a editovať topics.
+Taktiež je pre admina spravené zatiaľ jendoduché rozhranie.
+Okrem admina sa taktiež odsimuloval networking, kedy services boli oddelené. 
+Taktiež je spravená autentifikácia, ktorú je možné spraviť 3 možnosťami a to buď: cez certifikáty, cez kľúč alebo cez meno a heslo.
+- **UX tím** - boli prebraté doterajšie výsledky z dvoch používateľských testovaní.
+Diskutovalo sa ohľadom rôznych návrhov od používateľov, ako napríklad vytváranie si vlastných "poličiek", zdieľanie publikácie pomocou QR kódu alebo aj neporozumenie rozdielu medzi *category* a *feeds*.
+Taktiež sa prebral návrh na možné používateľské testovanie počas DOD na FIIT.
+Okrem už spomenutého testovania na DOD sa prebralo najbližšie testovanie s používateľmi a kedy a kde bude prebiehať.
+
+</div>
+
+
+## To Do List
+
+- Začať pracovať na dokumente pre *TP Cup*
+- AI tím - dokončiť services, prípadne začať s elastic search
+- Microservices tím - napojiť sa na dev server
+- UX tím - pokračovať s UX testovaním a zároveň analyzovať výsledky
+
+## Fun poznámka
+
+- z výledkov UX testovania vzišlo že by používatelia mali záujem o hľadanie publikácií pomocou AI podľa farby alebo obrázku na obálke
