@@ -4,10 +4,67 @@
         <title>Team 5 Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
         <description>Team 5 Blog</description>
-        <lastBuildDate>Tue, 05 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Zápisnica zo stretnutia č. 6]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/sixth-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/sixth-record/</guid>
+            <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record6-f0d8f775e7b9edaafac831674eb1dc14.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/sixth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 12.11. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/sixth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->❌ Bc. Matúš Makay - osobné dôvody</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/sixth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na šiestom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>
+<p><strong>AI tím</strong> - spomenulo sa, že väčšina vecí, ktoré sú už funkčné boli nahraté do microservices.
+V microservices sa nachádzajú <em>.env</em>, <em>extraktor</em>, ktorý je možné meniť, <em>model</em>, ktorý bude taktiež možné meniť a <em>interface</em>.
+Taktiež bolo dohodnuté že najprv sa dokončia všetky services a potom sa AI tím zameria na elastic search.
+Čo sa týka extrahovaných dát z tabuliek, tak tie sa budú ukladať tak aby to dávalo zmysel a používateľ už mohol s nejakým jednoduchým formátom ďalej pracovať.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - v tejto skupine sa riešil Kafka admin a topics. Admin momentálne vie dynamicky vytvárať, generovať a editovať topics.
+Taktiež je pre admina spravené zatiaľ jendoduché rozhranie.
+Okrem admina sa taktiež odsimuloval networking, kedy services boli oddelené.
+Taktiež je spravená autentifikácia, ktorú je možné spraviť 3 možnosťami a to buď: cez certifikáty, cez kľúč alebo cez meno a heslo.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - boli prebraté doterajšie výsledky z dvoch používateľských testovaní.
+Diskutovalo sa ohľadom rôznych návrhov od používateľov, ako napríklad vytváranie si vlastných "poličiek", zdieľanie publikácie pomocou QR kódu alebo aj neporozumenie rozdielu medzi <em>category</em> a <em>feeds</em>.
+Taktiež sa prebral návrh na možné používateľské testovanie počas DOD na FIIT.
+Okrem už spomenutého testovania na DOD sa prebralo najbližšie testovanie s používateľmi a kedy a kde bude prebiehať.</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/sixth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>Začať pracovať na dokumente pre <em>TP Cup</em></li>
+<li>AI tím - dokončiť services, prípadne začať s elastic search</li>
+<li>Microservices tím - napojiť sa na dev server</li>
+<li>UX tím - pokračovať s UX testovaním a zároveň analyzovať výsledky</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="fun-poznámka">Fun poznámka<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/sixth-record/#fun-pozn%C3%A1mka" class="hash-link" aria-label="Direct link to Fun poznámka" title="Direct link to Fun poznámka">​</a></h2>
+<ul>
+<li>z výledkov UX testovania vzišlo že by používatelia mali záujem o hľadanie publikácií pomocou AI podľa farby alebo obrázku na obálke</li>
+</ul>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>zapisnice</category>
+        </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 5]]></title>
             <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifth-record/</link>
