@@ -4,10 +4,61 @@
         <title>Team 5 Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
         <description>Team 5 Blog</description>
-        <lastBuildDate>Tue, 12 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Zápisnica zo stretnutia č. 7]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/seventh-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/seventh-record/</guid>
+            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record7-872e003ffb6832857eeb4e21141a7308.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/seventh-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 20.11. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/seventh-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/seventh-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na siedmom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>
+<p><strong>AI tím</strong> - bol pridaný image service splou s labelingom a vytváraným outputom. Taktiež je vytvorený video service, ktorý bol otestovaný an anglických videách.
+Posledná service, ktorá chýba je textová, do ktorej je ešte potrebné doimplementovať tabuľky a všetky veci, ktoré chceme extrahovať z textu.
+Ďalej sa preberal elastic a aký spôsobom sa bude indexovať.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - bola naštudovaná certifikačná autorita s tým, že buď sa vytvorí skript, ktorý bude rozdávať certifikáty alebo
+sa na generovanie certifikátov použije voľne prístupná aplikácia.</p>
+</li>
+<li>
+<p><strong>Datastorage tím</strong> - bola naprogramovaná klientská library a zároveň pre to bol vytvorený samostatný repozitár.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - dohodlo sa UX testovanie počas DOD na FIIT a jeho približná realizácia a priebeh s tým, že detaily ako,
+v ktorej miestnosti alebo koľko členov bude testovať, sa dohodne ešte neskôr.
+Taktiež sa prebrali doterajšie výsledky z UX testovaní, ktorých sa zúčastnili študenti FIIT.</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/seventh-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>Dokončiť prihlášku na TP Cup</li>
+<li>Vytvoriť dokument s priebežnou správou, ktorú bude potrebné na konci semestra odovzdať</li>
+<li>Postupne pridať na stránku dokumentáciu pre každý tím</li>
+</ul>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>zapisnice</category>
+        </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 6]]></title>
             <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/sixth-record/</link>
