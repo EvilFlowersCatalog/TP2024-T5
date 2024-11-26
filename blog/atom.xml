@@ -2,11 +2,68 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</id>
     <title>Team 5 Blog</title>
-    <updated>2024-11-20T00:00:00.000Z</updated>
+    <updated>2024-11-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/"/>
     <subtitle>Team 5 Blog</subtitle>
     <icon>https://EvilFlowersCatalog.dev/TP2024-T5/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 8]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/eighth-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/eighth-record/"/>
+        <updated>2024-11-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record8-2ce6332a4829f2212fe879a36c94b036.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eighth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 20.11. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eighth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->❌ Bc. Matúš Makay - osobné dôvody</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eighth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na ôsmom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>
+<p><strong>AI tím</strong> - prebralo sa napojenie na elastic a ako sa budú posielať indexy.
+Prediskutovali sa nájdené problémy a ako ich bude možné vyriešiť. Teraz bude 100% focus na text, potom obrázky a potom na vzorce.
+Do ďalšieho semestra by bolo možné vytvoriť vlastný model a natrénovať ho na vzorce.
+Prebrali sa chapters pre video a ako by to bolo možné vyriešiť. Počas Vianoc je naplánovaná kompletizácia dokumentácie.</p>
+</li>
+<li>
+<p><strong>Microservices tím</strong> - bude potrebné sa ešte pripojiť na server, kde sa bude pracovať s javou, vďaka ktorej bude možné sledovať trafiku.
+Riešila sa komunikácia medzi services a Kafkou ako aj napojenie sa na súbory pomocou network mount-u.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - bude ešte potrebná analýza nahrávok z UX testovania aby sa mohol vyplniť protokol.
+Taktiež sa prebrala doterajšia dokumentácia k UX, ktorá bola nahratá na webstránku.</p>
+</li>
+<li>
+<p><strong>TP Cup</strong> - bola skompletizovaná prihláška na TP Cup (pravdepodobne nebude potrebná, pretože TP Cup je tento rok povinný)</p>
+</li>
+<li>
+<p><strong>Diskusia</strong> - po 9 sa k stretnutiu pripojili 3 bakalári, ktorí hlavne s AI tímom prebrali v akej podobe budú potrebovať dostávať dáta.
+Dohodlo sa na vytvorení Docker-u kde budú mať poskytnuté API odkiaľ si budú vedieť extrahovať dáta a metadáta.</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eighth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>Každý tím pokračuje vo svojej rozrobenej práci</li>
+<li>Začať pracovať na priebežnej správe, ktorá sa odovzdáva na konci semestra</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Darina Dvorecká</name>
+        </author>
+        <category label="zimny-semester" term="zimny-semester"/>
+        <category label="zapisnice" term="zapisnice"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zápisnica zo stretnutia č. 7]]></title>
         <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/seventh-record/</id>
