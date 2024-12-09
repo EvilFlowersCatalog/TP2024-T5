@@ -15,7 +15,7 @@ Pred testovaním sme vytvorili protokol, ktorý tvoril základnú štruktúru pr
 - **SUS dotazník** - zoznam otázok, na ktoré sa odpovedá pomocou vopred stanovenej škály (1-10)
 - **zoznam metrík** - zoznam sledovaných metrík ako *miera dokončenia úlohy*, *čas splnenia úlohy* a *miera chybovosti*
 </div>
-Nevyplnený prvotný protokol je možné nájsť [tu](/img/ux_doc/protokol_students.pdf).
+Nevyplnený prvotný protokol je možné nájsť [tu](/pdf/protokol1.pdf).
 
 ## UX testovanie
 <div style={{ textAlign: 'justify' }}>

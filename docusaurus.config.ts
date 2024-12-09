@@ -84,7 +84,7 @@ const config: Config = {
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/glasskube/glasskube/tree/main/website/',
+          editUrl: 'https://github.com/EvilFlowersCatalog/TP2024-T5/tree/main',
         },
         blog: false,
         theme: {
