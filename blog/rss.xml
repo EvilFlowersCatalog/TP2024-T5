@@ -4,10 +4,55 @@
         <title>Team 5 Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
         <description>Team 5 Blog</description>
-        <lastBuildDate>Tue, 26 Nov 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Zápisnica zo stretnutia č. 9]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/ninth-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/ninth-record/</guid>
+            <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record9-37df23ab8fca417e0ae7143344a75d4b.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/ninth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Utorok 3.12. 2024<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 8:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/ninth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/ninth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na deviatom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>
+<p><strong>AI tím</strong> - extrahovanie paragrafov už funguje (pomocou OCR).
+Bol vytvorený docker compose kde textová service ide cez fast API.</p>
+</li>
+<li>
+<p><strong>Microservices a Datastorage tím</strong> - podarilo sa vyriešiť problém s nefungujúcim pripojením na server.</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - boli poskytnuté informácie k DOD ako napríklad čas a miesto konania ako aj samotný priebeh.
+Následne sa prebrali výsledky z analýzy UX testovania, ktoré prebehlo so študentmi FIIT.
+Taktiež sa preberalo, že by bolo možné z daného výskumu vytvoriť článok.</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/ninth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>naplánovať Vianočné stretko 🎅🎄🦌🛷</li>
+<li>dať dokopy dokumentáciu, spraviť exporty šprintov a upratať webstránku</li>
+</ul>]]></content:encoded>
+            <category>zimny-semester</category>
+            <category>zapisnice</category>
+        </item>
         <item>
             <title><![CDATA[Zápisnica zo stretnutia č. 8]]></title>
             <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/eighth-record/</link>
@@ -16,7 +61,7 @@
             <description><![CDATA[cover-image-launch-week]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record8-2ce6332a4829f2212fe879a36c94b036.png" width="750" height="315" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eighth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
-<p><strong>Dátum:</strong> Utorok 20.11. 2024<br>
+<p><strong>Dátum:</strong> Utorok 26.11. 2024<br>
 <strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
 <strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
 <strong>Čas stretnutia:</strong> 8:00<br>
@@ -66,11 +111,11 @@ Dohodlo sa na vytvorení Docker-u kde budú mať poskytnuté API odkiaľ si bud�
             <title><![CDATA[Zápisnica zo stretnutia č. 7]]></title>
             <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/seventh-record/</link>
             <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/seventh-record/</guid>
-            <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[cover-image-launch-week]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record7-872e003ffb6832857eeb4e21141a7308.png" width="750" height="315" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/seventh-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
-<p><strong>Dátum:</strong> Utorok 20.11. 2024<br>
+<p><strong>Dátum:</strong> Utorok 19.11. 2024<br>
 <strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
 <strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
 <strong>Čas stretnutia:</strong> 8:00<br>
