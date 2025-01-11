@@ -11,7 +11,7 @@
     - **Data extraction** - extrakcia rôznych typov dát z PDF dokumentov (text, tabuľky obrázky, rovnice)
     - **Data interpretation** - spracovanie extrahovaných dát, ktoré zahŕňa napr. automatické označovanie a opis obrázkov s využítim neurónových sietí či konverziu matematických rovníc do LaTeX/Python kódu
     - **Audio-to-Text conversion** - implementácia prevodu zvukovej stopy z prednášok na text s využítim neurónových sietí
-    - **Indexing** - indexovanie extrahovaných dát (textu, obrázkov) a pomoci Elasticsearch s dôrazom na podporu viacerých jazykov
+    - **Indexing** - indexovanie extrahovaných dát (textu, obrázkov) za pomoci Elasticsearch-u s dôrazom na podporu viacerých jazykov
 </div>
 
 ![ilustration-image](/img/ai_doc/AI_roadmap.jpg)
