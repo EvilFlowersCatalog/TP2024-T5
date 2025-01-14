@@ -2,7 +2,6 @@
 <div style={{ textAlign: 'justify' }}>
 *Equation microservice* je mikroslužba zodpovedná za extrakciu a ďalšie spracovanie rovníc z PDF dokumentov.
 
-<br>
 Na prácu s rovnicami sme použili Python knižnicu **sympy**, ktorá nám umožňuje manipuláciu s matematickými výrazmi a rovnicami. Ceľový proces sa rozdeluje na extrakciu a processovanie rovníc.
    
 </div>
@@ -23,7 +22,7 @@ Na prácu s rovnicami sme použili Python knižnicu **sympy**, ktorá nám umož
 <div style={{ textAlign: 'justify' }}>
 Vzťahy medzi hlavnými triedami mikroslužby sme znázornili pomocou UML diagramu nižšie. Tento diagram obsahuje nasledujúce elementy:
 
-<br>
+<br></br>
 
 - **EquationExtractor** - extrahuje rovnice z PDF dokumentov
 - **EquationProcessor** - spracováva extrahované rovnice

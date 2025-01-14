@@ -8,7 +8,6 @@
 <div style={{ textAlign: 'justify' }}>
 Elasticsearch je implementovaný v projekte pomocou Docker kontajnera, ktorý je spustený v rámci Docker Compose súboru. K tomuto kontajneru sú napojené jednotlivé mikroslužby, ktoré nám umožňujú indexovať a vyhľadávať dokumenty v Elasticsearch. No samostatná konektivita Elasticsearchu s jednotlivými mikroslužbami je realizovaná pomocou *REST API*, v tejto fáze projektu, pri čom neskôr bude táto implementácia vyriešená pomocou technológie *Kafka*.
 
-<br>
 
 K Elasticsearchu sme taktiež pripojili *Kibana*, ktorý nám umožňuje vizualizáciu databázy Elasticsearch. Taktiež sa uvažuje aj na integráciu *Logstashu*, ktorý nám umožňuje logovanie do Elasticsearchu, no toto riešenie ešte nie je isté.
 
