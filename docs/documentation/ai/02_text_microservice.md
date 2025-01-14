@@ -1,7 +1,7 @@
 # Text microservice
 
 <div style={{ textAlign: 'justify' }}>
-    *Text microservice* je mikroslužba je zodpovedná za extrakciu a ďalšie spracovanie textu a tabuliek z PDF dokumentov. 
+    *Text microservice* je mikroslužba zodpovedná za extrakciu a ďalšie spracovanie textu a tabuliek z PDF dokumentov. 
 </div>
 
 ### Spracovanie textu
@@ -29,7 +29,7 @@
     Základná podoba UML diagramu so vzťahmi medzi hlavnými prvkami mikroslužby je zobrazená na obrázku nižšie.
 </div>
 
-![ilustration-image](/img/ai_doc/UML_diagram_text_microservice.png)
+![ilustration-image](/img/ai_doc/UML_diagram_text_service.png)
 
 ### Sekvenčný diagram
 <!-- add diagrams -->

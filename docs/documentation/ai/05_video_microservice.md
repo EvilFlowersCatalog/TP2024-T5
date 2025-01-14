@@ -19,7 +19,7 @@
    - **VideoService** - hlavná trieda, ktorá zabezpečuje celý proces: volá *AudioExtractor* na získanie audia a *AudioProcessor* na jeho prepis
 </div>
 
-![ilustration-image](/img/ai_doc/UML_diagram_video_microservice.png)
+![ilustration-image](/img/ai_doc/UML_diagram_video_service.png)
 
 ### Sekvenčný diagram
 
@@ -32,4 +32,4 @@
    4. Výsledný text sa vráti späť do triedy *VideoService*.
 </div>
 
-![ilustration-image](/img/ai_doc/sequence_diagram_video_microservice.png)
+![ilustration-image](/img/ai_doc/sequence_diagram_video_service.png)
