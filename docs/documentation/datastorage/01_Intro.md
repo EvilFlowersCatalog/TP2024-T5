@@ -8,4 +8,4 @@ Pracovný postup je rozdelený do 4 fáz:
 - finálne nasadenie repozitára Dataverse
 
 Výstupom bude nasadený repozitár Dataverse a, ktorý bude schopný zdieľať dáta v ňom uložené s Elvíra infraštruktúrou.
-![Roadmap diagram showing the four phases: Analysis, Testing Dataverse, Integration with ELVIRA, and Deployment](/img/data_doc/roadmap.png)
+![Roadmap diagram showing the four phases: Analysis, Testing Dataverse, Integration with ELVIRA, and Deployment](/img/data_doc/roadmap.jpg)

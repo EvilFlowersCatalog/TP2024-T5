@@ -12,4 +12,4 @@ V rámci analýzy sme objavili viaceré klientske API knižnice, ktoré zabezpe�
 Toto nás viedlo k implementácií vlastnej klientskej knižnice, ktorá zabezpečí všetky potrebné operácie. 
 
 ## API klient class diagram
-![API klient class diagram](/img/data_doc/api_client.png)
+![API klient class diagram](/img/data_doc/api-client.png)
