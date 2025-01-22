@@ -24,10 +24,10 @@ Datasety sú obvykle prepojené s konkrétnymi dataversami, čo umožňuje ich j
 
 ### Príklady
 Vytvorenie datasetu/dataversu:
-![Datase and Dataverse create example](.img/create-data-TP.png)
+![Datase and Dataverse create example](/img/create-data-TP.png)
 
 Dataset a dataverse môžeme v UI rozpoznať podľa farieb ohraničenie. Modré ohraničenie definuje objekt datasetu a oranžové ohraničenie označuje dataverse.
-![Datase and Dataverse example](.img/priklad-dataverse-dataset.png)
+![Datase and Dataverse example](/img/priklad-dataverse-dataset.png)
 
 ## Persistencia údajov v repozitári Dataverse
 Pri ukladaní blob objektov (napríklad súborov alebo obrázkov) Dataverse ponúka niekoľko možností. Každá z nich má svoje výhody a nevýhody, pričom výber závisí od požiadaviek na dostupnosť, správu a náklady.
@@ -57,7 +57,7 @@ Dataverse API je dobre zdokumentované v oficiálnej dokumentácii Dataverse.
 ### Autentifikačné metódy
 1.	Základný API kľúč: 
 API kľúč je jednoduchý spôsob autentifikácie, ktorý sa dá vygenerovať priamo v profile používateľa vo webovom rozhraní Dataverse. Po prihlásení do svojho účtu môže používateľ vygenerovať kľúč, ktorý je unikátny pre jeho účet.
-![API key](.img/token-generation.png)
+![API key](/img/token-generation.png)
 2.	Bearer tokeny:
 Bearer tokeny poskytujú dynamickejší spôsob autentifikácie. Môžu byť generované pomocou API požiadavky, ktorá obsahuje meno používateľa a heslo. Po úspešnej autentifikácii systém vráti token, ktorý sa používa na ďalšiu komunikáciu s API bez potreby opätovného zadávania prihlasovacích údajov.
 3.	Podpísané URL adresy:
