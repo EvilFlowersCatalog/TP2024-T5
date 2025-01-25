@@ -26,10 +26,11 @@
 <div style={{ textAlign: 'justify' }}>
    Sekvenčným diagramom sme znázornili postupnosť volaní medzi komponentmi mikroslužby. Poskytuje prehľad o dynamickej interakcii medzi jednotlivými časťami mikroslužby počas jej behu:
 
-   1. Vo funkcii *main* sa zavolá metóda *extract_text_from_audio* z inštancie triedy *VideoService*.
-   2. *VideoService* použije triedu *AudioExtractor* na extrakciu audia z videa.
-   3. Extrahované audio odošle triede *AudioProcessor*, ktorá získa transkripciu zavolaním modelu na prepis, napr. *Whisper*.
-   4. Výsledný text sa vráti späť do triedy *VideoService*.
+   1. Používateľ poskytne cestu k videozáznamu.
+   2. V rámci *main* funkcie *VideoService* inicializuje proces spracovania.
+   3. *AudioExtractor* extrahuje audio z videozáznamu.
+   4. *AudioProcessor* získava transkripciu extrahovaného audia využitím príslušného modelu, napr. *Whisper*.
+   5. Výsledkom procesu je transkripcia audia vo forme textu.
 </div>
 
 ![ilustration-image](/img/ai_doc/sequence_diagram_video_service.png)
