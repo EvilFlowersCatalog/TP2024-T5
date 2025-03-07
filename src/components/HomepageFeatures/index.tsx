@@ -69,6 +69,15 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+  {
+    title: 'Bc. Pavol Hradský',
+    icon: faFrog,
+    description: (
+      <>
+        ??? Team
+      </>
+    ),
+  },
 ];
         
 const FeatureList1: FeatureItem[] = [
