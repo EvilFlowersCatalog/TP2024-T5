@@ -2,11 +2,158 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</id>
     <title>Team 5 Blog</title>
-    <updated>2024-12-03T00:00:00.000Z</updated>
+    <updated>2025-03-07T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/"/>
     <subtitle>Team 5 Blog</subtitle>
     <icon>https://EvilFlowersCatalog.dev/TP2024-T5/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 12]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/etwelfth-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/etwelfth-record/"/>
+        <updated>2025-03-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record9-37df23ab8fca417e0ae7143344a75d4b.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/etwelfth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 07.03.2025
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 10:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/etwelfth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay
+✅ Bc. Pavol Hradský</p>
+<h1>Priebeh stretnutia</h1>
+<p>Na dvanastom stretnuti sa preberala nasledovná agenda:</p>
+<ul>
+<li>
+<p><strong>AI tím</strong> - zacali robit service na analyzer (file checker, OCR, generovanie TOC)</p>
+</li>
+<li>
+<p><strong>Microservice a Datastorage tím</strong> - Konzultacia merge requestov, zacinaju spojazdnovat dataverse</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - analyza videi z DOD, hotovy protokol pre knihovnicky</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/etwelfth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>
+<p>posunut dataverse, kafku</p>
+</li>
+<li>
+<p>premigrovat na S3</p>
+</li>
+<li>
+<p>zacat robit UI navrhy</p>
+</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Pavol Hradský</name>
+        </author>
+        <category label="letny-semester" term="letny-semester"/>
+        <category label="zapisnice" term="zapisnice"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 11]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/eleventh-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/eleventh-record/"/>
+        <updated>2025-02-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record9-37df23ab8fca417e0ae7143344a75d4b.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eleventh-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 28.02. 2025
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 10:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eleventh-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay
+✅ Bc. Pavol Hradský</p>
+<h1>Priebeh stretnutia</h1>
+<p>Na jedenastom stretnuti sa preberala nasledovná agenda:</p>
+<ul>
+<li>
+<p><strong>AI tím</strong> - vyrieseny problem s cestami k suborom, ktore budu spracovavat AI microservices, a to s vyuzitim S3; potreba implementacie novej servisy, ktora ma sluzit ako prvotny analyzer dokumentu predtym ako bude spracovany hlavnymi AI servicami (o aky typ suboru ide, extrakcia metadat a TOC, zistenie, ci obsahuje OCR vrstvu); prepajanie mikroservis s Kafkou je v procese</p>
+</li>
+<li>
+<p><strong>Microservice a Datastorage tím</strong> - zapojenie noveho clena do timu</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - prejdenie protokolu na UX testovanie s tetami knihovníčkami, posun v analýze UX testovania počas DOD, možnosť začatia tvoriť návrhy nových rozhraní, ktoré budú riešiť identifikované problémy z testovania</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/eleventh-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>prerobit storage z filesystemu na S3</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Pavol Hradský</name>
+        </author>
+        <category label="letny-semester" term="letny-semester"/>
+        <category label="zapisnice" term="zapisnice"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 10]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/tenth-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/tenth-record/"/>
+        <updated>2025-02-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record9-37df23ab8fca417e0ae7143344a75d4b.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/tenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 21.02. 2025
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 10:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/tenth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay
+✅ Bc. Pavol Hradský</p>
+<h1>Priebeh stretnutia</h1>
+<p>Na desiatom stretnuti sa preberala nasledovná agenda:</p>
+<p>Úvodne stretnutie v letnom semestri, zoznámenie sa a zapojenie nového člena tímu (Pavol Hradský).</p>
+<ul>
+<li>
+<p><strong>AI tím</strong> - vsetky microservisy maju sfinalizovanu zakladnu strukturu a implementaciu; zisteny problem s extrakciou textu - pouzite OCR nevie spracovat diakritiku; setupnuta testovacia servica na Elasticsearch s vyuzitim Fast API</p>
+</li>
+<li>
+<p><strong>Microservice a Datastorage tím</strong> - report stavu, dohodli sa na rozbehnutí apache kafka do budúceho týždňa</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - rekapitulácia toho ako prebiehalo UX testovanie počas DOD, rozobratie toho kedy a či vôbec sa bude testovať s tetami knihovníčkami</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/tenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>rozbehnúť apache kafka</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Pavol Hradský</name>
+        </author>
+        <category label="letny-semester" term="letny-semester"/>
+        <category label="zapisnice" term="zapisnice"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zápisnica zo stretnutia č. 9]]></title>
         <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/ninth-record/</id>
