@@ -74,7 +74,7 @@ const FeatureList: FeatureItem[] = [
     icon: faFrog,
     description: (
       <>
-        ??? Team
+        Microservices Team
       </>
     ),
   },
