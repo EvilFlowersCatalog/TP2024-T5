@@ -2,11 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</id>
     <title>Team 5 Blog</title>
-    <updated>2025-03-07T00:00:00.000Z</updated>
+    <updated>2025-03-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/"/>
     <subtitle>Team 5 Blog</subtitle>
     <icon>https://EvilFlowersCatalog.dev/TP2024-T5/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zápisnica zo stretnutia č. 13]]></title>
+        <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/</id>
+        <link href="https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/"/>
+        <updated>2025-03-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[cover-image-launch-week]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record13-1db7a44eeca7fe2eaf9188b365d37265.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 21.03.2025<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 10:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Darina Dvorecká</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay<br>
+<!-- -->❌ Bc. Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na trinástom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>stratégia - prebratie bojovej stratégie na IIT.SRC a TP Cup</li>
+<li>obsah prezentácie - obsah bol prediskutovaný s vedúcim tímu</li>
+<li>nácvik prezentácie - prvotný draft prezentácie bol odprezentovaný za prítomnosti p. Baťalíka a p. Kováča</li>
+<li>diskusia - po odprezentovaní prebehla diskusia, kde sa prebralo čo prezentácii chýba, čo treba odprezentovať inak a čo trochu pozmeniť</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>upraviť prezentáciu podľa pripomienok</li>
+<li>zlepšiť terminológiu tak, aby bola vhodnejšia aj pre business ľudí</li>
+</ul>]]></content>
+        <author>
+            <name>Bc. Darina Dvorecká</name>
+        </author>
+        <category label="letny-semester" term="letny-semester"/>
+        <category label="zapisnice" term="zapisnice"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zápisnica zo stretnutia č. 12]]></title>
         <id>https://EvilFlowersCatalog.dev/TP2024-T5/blog/etwelfth-record/</id>
