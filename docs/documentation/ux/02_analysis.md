@@ -14,5 +14,20 @@ Počas analýzy sytému sme uskutočnili rozhovor a pozorovali sme prácu s ELV�
 
 ## Zoznam problémov
 
-| Č.| Popis | Závažnosť |
-|:--:|----------|----------|
+| #  | Problém                                      | Závažnosť |
+|:---:|---------------------------------------------|:----------:|
+| 1  | Nedostatky vo vyhľadávaní                   | 4          |
+| 2  | Neintuitívne navigačné prvky                | 3          |
+| 3  | Zlá organizácia obsahu                      | 3          |
+| 4  | Nejasná funkcionalita niektorých prvkov     | 2          |
+| 5  | Zdieľanie a dostupnosť dokumentov          | 2          |
+| 6  | Nedostatky v zobrazovaní publikácií        | 2          |
+| 7  | Problémy s personalizáciou a nastaveniami  | 2          |
+| 8  | Použiteľnosť PDF viewera                    | 2          |
+| 9  | Nedostatky v správe používateľských skupín | 3          |
+| 10 | Nejasnosti pri správe výpožičiek            | 2          |
+| 11 | Slabá vizuálna a UX konzistencia           | 2          |
+| 12 | Nedostatočné možnosti práce s poličkou     | 2          |
+| 13 | Neintuitívna práca s metadátami publikácií | 2          |
+| 14 | Problémy s filtrami a vyhľadávaním         | 2          |
+| 15 | Problémy so zobrazením akcií v knižnici    | 1          |
