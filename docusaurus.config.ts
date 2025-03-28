@@ -136,7 +136,8 @@ const config: Config = {
       items: [
         {to: '/blog', label: 'Zápisnice'},
         {type: 'docSidebar', sidebarId: 'documentationSidebar', label: 'Dokumentácia'},
-        {type: 'docSidebar', sidebarId: 'sprintSidebar', label: 'Šprinty'},
+        //uncomment this only after sprints are done, not needed
+        // {type: 'docSidebar', sidebarId: 'sprintSidebar', label: 'Šprinty'},
       ],
     },
     footer: {
