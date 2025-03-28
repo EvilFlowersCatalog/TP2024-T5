@@ -4,25 +4,75 @@
         <title>Team 5 Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
         <description>Team 5 Blog</description>
-        <lastBuildDate>Fri, 21 Mar 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
-            <title><![CDATA[Zápisnica zo stretnutia č. 13]]></title>
-            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/</link>
-            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/</guid>
+            <title><![CDATA[Zápisnica zo stretnutia č. 15]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifteenth-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifteenth-record/</guid>
+            <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record13-1db7a44eeca7fe2eaf9188b365d37265.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 28.03.2025<br>
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 10:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay<br>
+<!-- -->✅ Bc. Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na pätnástom stretnutí sa preberala nasledovná agenda:</p><p>Prezentacia minuly tyzden a tento tyzden dopadla dobre, veducemu kniznice sa pacila</p><ul>
+<li>
+<p><strong>AI tím</strong> - monitoring pre AI services, robi sa na analyzeri</p>
+</li>
+<li>
+<p><strong>Microservice a Datastorage tím</strong></p>
+<ul>
+<li>nedari sa prepojit dataverse s miniom, do mesiaca bude treba deploynut dataverse</li>
+<li>problemy s kafkou na serveri (works on my machine!), debuguje sa v com je problem</li>
+<li>pridava sa support na posielanie eventov do kafky v EvilFlowers</li>
+</ul>
+</li>
+<li>
+<p><strong>UX tím</strong> - vytvorenie figma projektu, zacina sa robit low fidelity</p>
+</li>
+</ul></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>UX low fidelity do buduceho tyzdna, potom zacat robit high fidelity</li>
+<li>zacat riesit deployment dataverse</li>
+<li>napojenie AI services na kafku, monitoring</li>
+<li>dorobit OCR</li>
+</ul>]]></content:encoded>
+            <category>letny-semester</category>
+            <category>zapisnice</category>
+        </item>
+        <item>
+            <title><![CDATA[Zápisnica zo stretnutia č. 14]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourteenth-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourteenth-record/</guid>
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[cover-image-launch-week]]></description>
             <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record13-1db7a44eeca7fe2eaf9188b365d37265.png" width="750" height="315" class="img_ev3q"></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
 <p><strong>Dátum:</strong> Piatok 21.03.2025<br>
 <strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
 <strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
 <strong>Čas stretnutia:</strong> 10:00<br>
 <strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
 <strong>Zapisovateľ:</strong> Darina Dvorecká</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourteenth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
 <p>✅ Ing. Jakub Dubec<br>
 <!-- -->✅ Bc. Alexander Čerepan<br>
 <!-- -->✅ Bc. Darina Dvorecká<br>
@@ -31,17 +81,67 @@
 <!-- -->✅ Bc. Robert Prikryl<br>
 <!-- -->✅ Bc. Matúš Makay<br>
 <!-- -->❌ Bc. Pavol Hradský</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
-<div style="text-align:justify"><p>Na trinástom stretnutí sa preberala nasledovná agenda:</p><ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourteenth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<div style="text-align:justify"><p>Na štrnástom stretnutí sa preberala nasledovná agenda:</p><ul>
 <li>stratégia - prebratie bojovej stratégie na IIT.SRC a TP Cup</li>
 <li>obsah prezentácie - obsah bol prediskutovaný s vedúcim tímu</li>
 <li>nácvik prezentácie - prvotný draft prezentácie bol odprezentovaný za prítomnosti p. Baťalíka a p. Kováča</li>
 <li>diskusia - po odprezentovaní prebehla diskusia, kde sa prebralo čo prezentácii chýba, čo treba odprezentovať inak a čo trochu pozmeniť</li>
 </ul></div>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
 <li>upraviť prezentáciu podľa pripomienok</li>
 <li>zlepšiť terminológiu tak, aby bola vhodnejšia aj pre business ľudí</li>
+</ul>]]></content:encoded>
+            <category>letny-semester</category>
+            <category>zapisnice</category>
+        </item>
+        <item>
+            <title><![CDATA[Zápisnica zo stretnutia č. 13]]></title>
+            <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/</link>
+            <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/</guid>
+            <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[cover-image-launch-week]]></description>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record9-37df23ab8fca417e0ae7143344a75d4b.png" width="750" height="315" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
+<p><strong>Dátum:</strong> Piatok 14.03.2025
+<strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
+<strong>Vedúci tímu:</strong> Ing. Jakub Dubec<br>
+<strong>Čas stretnutia:</strong> 10:00<br>
+<strong>Miesto stretnutia:</strong> FIIT STU zasadacia miestnosť v knižnici<br>
+<strong>Zapisovateľ:</strong> Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prítomnosť">Prítomnosť<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#pr%C3%ADtomnos%C5%A5" class="hash-link" aria-label="Direct link to Prítomnosť" title="Direct link to Prítomnosť">​</a></h2>
+<p>✅ Ing. Jakub Dubec<br>
+<!-- -->✅ Bc. Alexander Čerepan<br>
+<!-- -->✅ Bc. Darina Dvorecká<br>
+<!-- -->✅ Bc. Patrik Kozlík<br>
+<!-- -->✅ Bc. Laura Krajčovičová<br>
+<!-- -->✅ Bc. Robert Prikryl<br>
+<!-- -->✅ Bc. Matúš Makay
+✅ Bc. Pavol Hradský</p>
+<h1>Priebeh stretnutia</h1>
+<p>Na dvanastom stretnuti sa preberala nasledovná agenda:</p>
+<p>Budu nacviky na prezentacie (my sme 25.3.), treba spravit prezentaciu na 5 minut</p>
+<p>prezentovat AI, UX, Kafka (nenazvat to kafka ani message broker)</p>
+<ul>
+<li>
+<p><strong>AI tím</strong> - treba este dokoncit analyzer a OCR check, okrem toho by malo vsetko fungovat</p>
+</li>
+<li>
+<p><strong>Microservice a Datastorage tím</strong> - nejde vytvorit root pristup na server,</p>
+</li>
+<li>
+<p><strong>UX tím</strong> - zanalizovane vsetky videa, mame vysledky, treba ich este trochu dokoncit</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
+<ul>
+<li>
+<p>pripravit prezentaciu</p>
+</li>
+<li>
+<p>deploynut komponenty na dev prostredie</p>
+</li>
 </ul>]]></content:encoded>
             <category>letny-semester</category>
             <category>zapisnice</category>
