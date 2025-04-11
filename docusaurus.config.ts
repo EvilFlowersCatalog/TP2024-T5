@@ -142,7 +142,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Glasskube, Inc.<br>Built with Docusaurus.`,
+      copyright: `Copyright © 2025 Team 5, <br>Built with tears, coffee & questionable life choices`,
     },
     prism: {
       theme: prismThemes.github,
