@@ -14,7 +14,7 @@
             <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fifteenth-record/</guid>
             <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[cover-image-launch-week]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record13-1db7a44eeca7fe2eaf9188b365d37265.png" width="750" height="315" class="img_ev3q"></p>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record15-142f85dfb1d6a9e924bc102e1147af41.png" width="750" height="315" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
 <p><strong>Dátum:</strong> Piatok 28.03.2025<br>
 <strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
@@ -32,28 +32,24 @@
 <!-- -->✅ Bc. Matúš Makay<br>
 <!-- -->✅ Bc. Pavol Hradský</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
-<div style="text-align:justify"><p>Na pätnástom stretnutí sa preberala nasledovná agenda:</p><p>Prezentacia minuly tyzden a tento tyzden dopadla dobre, veducemu kniznice sa pacila</p><ul>
-<li>
-<p><strong>AI tím</strong> - monitoring pre AI services, robi sa na analyzeri</p>
-</li>
-<li>
-<p><strong>Microservice a Datastorage tím</strong></p>
+<div style="text-align:justify"><p>Na pätnástom stretnutí sa preberala nasledovná agenda:</p><ul>
+<li>prezentácia minulý týždeň a tento týždeň dopadla dobre, vedúcemu knižnice sa páčila</li>
+<li><strong>AI tím</strong> - monitoring pre AI services, robí sa na analyzéri</li>
+<li><strong>Microservice a Datastorage tím</strong>
 <ul>
-<li>nedari sa prepojit dataverse s miniom, do mesiaca bude treba deploynut dataverse</li>
-<li>problemy s kafkou na serveri (works on my machine!), debuguje sa v com je problem</li>
-<li>pridava sa support na posielanie eventov do kafky v EvilFlowers</li>
+<li>nedarí sa prepojiť dataverse s miniom, do mesiaca bude treba deploynuť dataverse</li>
+<li>problémy s kafkou na serveri (works on my machine!), debuguje sa v čom je problém</li>
+<li>pridáva sa support na posielanie eventov do kafky v EvilFlowers</li>
 </ul>
 </li>
-<li>
-<p><strong>UX tím</strong> - vytvorenie figma projektu, zacina sa robit low fidelity</p>
-</li>
+<li><strong>UX tím</strong> - vytvorenie figma projektu, začína sa robiť low fidelity</li>
 </ul></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fifteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
-<li>UX low fidelity do buduceho tyzdna, potom zacat robit high fidelity</li>
-<li>zacat riesit deployment dataverse</li>
+<li>UX low fidelity do budúceho týždňa, potom začať robiť high fidelity</li>
+<li>začať riešiť deployment dataverse</li>
 <li>napojenie AI services na kafku, monitoring</li>
-<li>dorobit OCR</li>
+<li>dorobiť OCR</li>
 </ul>]]></content:encoded>
             <category>letny-semester</category>
             <category>zapisnice</category>
@@ -64,7 +60,7 @@
             <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/fourteenth-record/</guid>
             <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[cover-image-launch-week]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record13-1db7a44eeca7fe2eaf9188b365d37265.png" width="750" height="315" class="img_ev3q"></p>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record14-7316ff3351d38c293a1a83ee212b323c.png" width="750" height="315" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/fourteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
 <p><strong>Dátum:</strong> Piatok 21.03.2025<br>
 <strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
@@ -102,7 +98,7 @@
             <guid>https://EvilFlowersCatalog.dev/TP2024-T5/blog/thirteenth-record/</guid>
             <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[cover-image-launch-week]]></description>
-            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record9-37df23ab8fca417e0ae7143344a75d4b.png" width="750" height="315" class="img_ev3q"></p>
+            <content:encoded><![CDATA[<p><img decoding="async" loading="lazy" alt="cover-image-launch-week" src="https://evilflowerscatalog.dev/TP2024-T5/assets/images/record13-1db7a44eeca7fe2eaf9188b365d37265.png" width="750" height="315" class="img_ev3q"></p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="podrobnosti">Podrobnosti<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#podrobnosti" class="hash-link" aria-label="Direct link to Podrobnosti" title="Direct link to Podrobnosti">​</a></h2>
 <p><strong>Dátum:</strong> Piatok 14.03.2025
 <strong>Typ stretnutia:</strong> Stretnutie vedúceho tímu a členov tímu<br>
@@ -117,31 +113,21 @@
 <!-- -->✅ Bc. Patrik Kozlík<br>
 <!-- -->✅ Bc. Laura Krajčovičová<br>
 <!-- -->✅ Bc. Robert Prikryl<br>
-<!-- -->✅ Bc. Matúš Makay
-✅ Bc. Pavol Hradský</p>
-<h1>Priebeh stretnutia</h1>
-<p>Na dvanastom stretnuti sa preberala nasledovná agenda:</p>
-<p>Budu nacviky na prezentacie (my sme 25.3.), treba spravit prezentaciu na 5 minut</p>
-<p>prezentovat AI, UX, Kafka (nenazvat to kafka ani message broker)</p>
+<!-- -->✅ Bc. Matúš Makay<br>
+<!-- -->✅ Bc. Pavol Hradský</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
+<p>Na dvanástom stretnutí sa preberala nasledovná agenda:</p>
 <ul>
-<li>
-<p><strong>AI tím</strong> - treba este dokoncit analyzer a OCR check, okrem toho by malo vsetko fungovat</p>
-</li>
-<li>
-<p><strong>Microservice a Datastorage tím</strong> - nejde vytvorit root pristup na server,</p>
-</li>
-<li>
-<p><strong>UX tím</strong> - zanalizovane vsetky videa, mame vysledky, treba ich este trochu dokoncit</p>
-</li>
+<li>budú nácviky na prezentácie (my sme 25.3.), treba spraviť prezentáciu na 5 minút</li>
+<li>prezentovať AI, UX, Kafka (nenazvať to kafka ani message broker)</li>
+<li><strong>AI tím</strong> - treba ešte dokončiť analyzer a OCR check, okrem toho by malo všetko fungovať</li>
+<li><strong>Microservice a Datastorage tím</strong> - nejde vytvoriť root prístup na server</li>
+<li><strong>UX tím</strong> - zanalizovane všetky videá, máme výsledky, treba ich ešte trochu dokonciť</li>
 </ul>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/thirteenth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
-<li>
-<p>pripravit prezentaciu</p>
-</li>
-<li>
-<p>deploynut komponenty na dev prostredie</p>
-</li>
+<li>pripraviť prezentáciu</li>
+<li>deploynúť komponenty na dev prostredie</li>
 </ul>]]></content:encoded>
             <category>letny-semester</category>
             <category>zapisnice</category>
@@ -171,15 +157,9 @@
 <!-- -->✅ Bc. Pavol Hradský</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="priebeh-stretnutia">Priebeh stretnutia<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/etwelfth-record/#priebeh-stretnutia" class="hash-link" aria-label="Direct link to Priebeh stretnutia" title="Direct link to Priebeh stretnutia">​</a></h2>
 <div style="text-align:justify"><p>Na dvanástom stretnutí sa preberala nasledovná agenda:</p><ul>
-<li>
-<p><strong>AI tím</strong> - začali robiť service na analyzer (file checker, OCR, generovanie TOC)</p>
-</li>
-<li>
-<p><strong>Microservice a Datastorage tím</strong> - Konzultacia merge requestov, začínajú spojazdnovať dataverse</p>
-</li>
-<li>
-<p><strong>UX tím</strong> - analýza videí z DOD, hotový protokol pre knihovníčky</p>
-</li>
+<li><strong>AI tím</strong> - začali robiť service na analyzer (file checker, OCR, generovanie TOC)</li>
+<li><strong>Microservice a Datastorage tím</strong> - Konzultácia merge requestov, začínajú spojazdňovať dataverse</li>
+<li><strong>UX tím</strong> - analýza videí z DOD, hotový protokol pre knihovníčky</li>
 </ul></div>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="to-do-list">To Do List<a href="https://evilflowerscatalog.dev/TP2024-T5/blog/etwelfth-record/#to-do-list" class="hash-link" aria-label="Direct link to To Do List" title="Direct link to To Do List">​</a></h2>
 <ul>
