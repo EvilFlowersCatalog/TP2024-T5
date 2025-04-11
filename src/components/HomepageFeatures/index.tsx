@@ -14,7 +14,7 @@ type FeatureItem = {
   description: JSX.Element;
 };
 
-const FeatureList: FeatureItem[] = [
+const FeatureList2: FeatureItem[] = [
   {
     title: 'Bc. Alexander Čerepan',
     icon: faFrog,
@@ -51,6 +51,9 @@ const FeatureList: FeatureItem[] = [
       </>
     ),
   },
+];
+
+const FeatureList3: FeatureItem[] = [
   {
     title: 'Bc. Robert Prikryl',
     icon: faFrog,
@@ -94,7 +97,7 @@ const FeatureList1: FeatureItem[] = [
 
 function Feature({title, icon, description}: FeatureItem) {
   return (
-    <div className={clsx('col col--4', 'margin-top--lg')}>
+    <div className={clsx('col col--3', 'margin-top--lg')}>
       <div className={clsx('text--center', styles.iconBorder)}>
         <FontAwesomeIcon icon={icon} size="8x" className={styles.iconHeight} />
       </div>
@@ -125,7 +128,12 @@ export default function HomepageFeatures(): JSX.Element {
           ))}
         </div>
         <div className="row">
-          {FeatureList.map((item, idx) => (
+          {FeatureList2.map((item, idx) => (
+            <Feature key={idx} {...item} />
+          ))}
+        </div>
+        <div className="row2" style={{ display: 'flex', justifyContent: FeatureList3.length === 3 ? 'center' : 'space-between' }}>
+          {FeatureList3.map((item, idx) => (
             <Feature key={idx} {...item} />
           ))}
         </div>

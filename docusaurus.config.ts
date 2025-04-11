@@ -7,7 +7,7 @@ import {EnumChangefreq} from 'sitemap';
 const config: Config = {
   title: 'Team 5',
   tagline: 'Team 5',
-  favicon: 'img/favicon.png',
+  favicon: 'img/logo.png',
   trailingSlash: true,
 
   // Set the production url of your site here
@@ -130,8 +130,8 @@ const config: Config = {
     navbar: {
       title: 'Team 5',
       logo: {
-        alt: 'Glasskube Logo',
-        src: 'img/glasskube-logo.svg',
+        alt: 'TP-logo',
+        src: 'img/logo.png',
       },
       items: [
         {to: '/blog', label: 'Zápisnice'},
