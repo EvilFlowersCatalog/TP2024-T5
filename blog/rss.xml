@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Team 5 Blog</title>
+        <title>NEMAL Blog</title>
         <link>https://EvilFlowersCatalog.dev/TP2024-T5/blog/</link>
-        <description>Team 5 Blog</description>
+        <description>NEMAL Blog</description>
         <lastBuildDate>Fri, 28 Mar 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
