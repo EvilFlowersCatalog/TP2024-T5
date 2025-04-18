@@ -132,7 +132,7 @@ export default function HomepageFeatures(): JSX.Element {
             <Feature key={idx} {...item} />
           ))}
         </div>
-        <div className="row2" style={{ display: 'flex', justifyContent: FeatureList3.length === 3 ? 'center' : 'space-between' }}>
+        <div className="row" style={{ display: 'flex', justifyContent: FeatureList3.length === 1 ? 'center' : 'center' }}>
           {FeatureList3.map((item, idx) => (
             <Feature key={idx} {...item} />
           ))}

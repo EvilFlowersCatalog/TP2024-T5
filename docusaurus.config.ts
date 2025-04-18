@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 import {EnumChangefreq} from 'sitemap';
 
 const config: Config = {
-  title: 'Team 5',
+  title: 'NEMAL',
   tagline: 'Team 5',
   favicon: 'img/logo.png',
   trailingSlash: true,
