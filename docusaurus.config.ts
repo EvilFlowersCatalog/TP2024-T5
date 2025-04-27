@@ -137,7 +137,8 @@ const config: Config = {
         {to: '/blog', label: 'Zápisnice'},
         {type: 'docSidebar', sidebarId: 'documentationSidebar', label: 'Dokumentácia'},
         //uncomment this only after sprints are done, not needed
-        // {type: 'docSidebar', sidebarId: 'sprintSidebar', label: 'Šprinty'},
+        //{type: 'docSidebar', sidebarId: 'sprintSidebar', label: 'Šprinty'},
+        {to: '/figma-prototype',  label: 'Prototyp', position: 'left'},
       ],
     },
     footer: {
